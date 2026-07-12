@@ -32,7 +32,6 @@ project-atlas/
 ├── .env.example
 ├── docker-compose.yml
 ├── package.json
-├── pnpm-workspace.yaml
 ├── tsconfig.base.json
 ├── README.md
 └── LICENSE
